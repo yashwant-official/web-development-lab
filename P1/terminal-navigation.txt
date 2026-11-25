@@ -1,0 +1,31 @@
+PRACTICAL 1
+
+Title: Project Folder and Terminal Navigation
+
+Aim:
+To create a project directory and practice basic
+terminal navigation commands.
+
+Commands Used:
+
+1. pwd
+   Displays the current working directory.
+
+2. ls
+   Lists files and directories.
+
+3. cd ~/Desktop
+   Navigates to Desktop.
+
+4. mkdir web-development-lab
+   Creates the project directory.
+
+5. cd web-development-lab
+   Enters the project directory.
+
+6. mkdir P1 P2 P3 P4 P5 P6 P7 P8 P9 P10 P11 P12 P13
+   Creates folders for all practicals.
+
+Result:
+Successfully created the project directory and
+practiced basic terminal navigation commands.
